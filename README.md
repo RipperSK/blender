@@ -1,2 +1,2 @@
 # blender
-Blender models
+Blender models repository
